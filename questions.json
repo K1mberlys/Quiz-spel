@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Vem var den grekiska havsguden?",
+    "options": ["Adonis", "Zeus", "Poseidon", "Loke"],
+    "answer": "Poseidon"
+  },
+  {
+    "question": "Vad heter den fiktiva staden där TV-serien The Simpsons utspelar sig?",
+    "options": ["Fairview", "Springfield", "Smallville", "Riverdale"],
+    "answer": "Springfield"
+  },
+  {
+    "question": "Vilket land var först med att ge kvinnor rösträtt?",
+    "options": ["Nya Zeeland", "Irland", "Finland", "Schweiz"],
+    "answer": "Nya Zeeland"
+  },
+  {
+    "question": "Vilket land vann fotbolls-VM för herrar 2018?",
+    "options": ["Argentina", "Italien", "Tyskland", "Frankrike"],
+    "answer": "Frankrike"
+  },
+  {
+    "question": "Vilket grundämne har den kemiska symbolen Fe?",
+    "options": ["Järn", "Svavel", "Kol", "Kväve"],
+    "answer": "Järn"
+  }
+]
